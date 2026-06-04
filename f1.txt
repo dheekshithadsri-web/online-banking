@@ -1,1 +1,3 @@
 good morning guys 
+i am good 
+finally i learnt git
